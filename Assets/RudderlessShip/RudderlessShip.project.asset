@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: RudderlessShip.project
+  m_EditorClassIdentifier: 
+  excelList: []
+  chapterDataList:
+  - chapterName: Boot
+    excelList:
+    - {fileID: 102900000, guid: 0a921ca7e6227dc49a8b22591de55cb3, type: 3}
+    excelDir: {fileID: 0}
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  scenarios: {fileID: 11400000, guid: 7a12e384f3c3eb8419a835b493c188b3, type: 2}
+  autoImportType: 0
+  convertPath: 
+  convertVersion: 0
+  isAutoUpdateVersionAfterConvert: 0
+  isAutoConvertOnImport: 0
+  customInportSpriteFolders:
+  - {fileID: 102900000, guid: f5922b9239c3a9249ac0f404eab9cb1c, type: 3}
+  - {fileID: 102900000, guid: 11454d4f0ae162240b665bc76b2d53a5, type: 3}
+  - {fileID: 102900000, guid: 2547713bf2c8e5a49b82a12c03480156, type: 3}
+  - {fileID: 102900000, guid: 8b91df4874cb90e4a8e962c9f7e34dd7, type: 3}
+  - {fileID: 102900000, guid: e53f57103c4a5794f957406accce99c5, type: 3}
+  customInportAudioFolders:
+  - {fileID: 102900000, guid: 7f3269a0cbd062d458bcb47527116f82, type: 3}
+  - {fileID: 102900000, guid: fad816e6e5e2a3b4abd8c75de237162d, type: 3}
+  - {fileID: 102900000, guid: 9c2b27eb6c907294290d1c58cf7cd415, type: 3}
+  - {fileID: 102900000, guid: 7b0515b1f8c517a448b1e4b96d0e7573, type: 3}
+  customInportMovieFolders: []
+  quickImport: 0
+  parseFormula: 0
+  parseNumreic: 0
